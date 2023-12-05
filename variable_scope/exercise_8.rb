@@ -1,0 +1,1 @@
+# error, a not defined outside block first
